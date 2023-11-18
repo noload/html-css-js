@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    opacity: 0.9;
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: black;
+    
+}
+nav ul li{
+    font-size: 22px;
+  display: inline-block;
+  margin: 13px;
+}
+.logo{
+    margin-left: 10px;
+}
+main{
+    background-image: url("./Img/img-mission-background.webp");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1200px;
+    height: 700px;
+    margin: 71px auto;
+    /* display: flex; */
+}
+.mission{
+    position: relative;
+    top: 323px;
+    padding: 20px;
+    text-align: center;
+}
+.cards img{
+    height: 200px;
+    width: 300px;
+}

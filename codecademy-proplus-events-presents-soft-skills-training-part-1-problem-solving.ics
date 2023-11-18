@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:Soft Skills Training | Part 1: Problem solving
+DTSTART;VALUE=DATE-TIME:20231101T170000Z
+DTEND;VALUE=DATE-TIME:20231101T180000Z
+DTSTAMP;VALUE=DATE-TIME:20231030T073750Z
+UID:codecademy/2120/Event/Bevy
+SEQUENCE:1698651470
+ATTENDEE;CN="Not_Safe kamble";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=
+ TRUE:MAILTO:vaibhavkamble023@gmail.com
+DESCRIPTION:Become a better innovator\, collaborator\, and leader. \n\nVir
+ tual event URL: https://community.codecademy.com/j/ns4fk9y96p2j8/9d163dee-
+ deb4-48c7-b54a-97d904524c50/
+LOCATION:https://community.codecademy.com/j/ns4fk9y96p2j8/9d163dee-deb4-48
+ c7-b54a-97d904524c50/
+ORGANIZER;CN=Codecademy:MAILTO:meetups@codecademy.com
+PRIORITY:5
+STATUS:CONFIRMED
+URL:https://community.codecademy.com/j/ns4fk9y96p2j8/9d163dee-deb4-48c7-b5
+ 4a-97d904524c50/
+END:VEVENT
+END:VCALENDAR
